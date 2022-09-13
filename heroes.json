@@ -1,0 +1,72 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый в рейтинге",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Лучший герой",
+      "description": "Скрывающийся в тени",
+      "element": "earth"
+    },
+    {
+      "id": "49ea003b-9c20-4799-95ad-9be8c8946a9f",
+      "name": "Владислав",
+      "description": "dsa",
+      "element": "wind"
+    },
+    {
+      "id": "90391c1c-7a10-421d-a8a2-cbc20376759c",
+      "name": "Владислав",
+      "description": "Прыгать",
+      "element": "electricity"
+    },
+    {
+      "id": "685eead1-52ac-44f6-b9b7-446315098447",
+      "name": "George A.",
+      "description": "dasdas",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "className": "btn-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "className": "btn-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "className": "btn-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "className": "btn-secondary"
+    },
+    {
+      "id": "6",
+      "name": "electricity",
+      "className": "btn-warning"
+    }
+  ]
+}
